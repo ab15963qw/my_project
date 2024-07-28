@@ -6,7 +6,7 @@ CORS(app)
 
 @app.route('/')
 def home():
-    return "Welcome to the Flask Backend!"
+    return "Welcome to the Flask B555555555ackend!"
 
 @app.route('/api/hello')
 def hello():
